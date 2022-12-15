@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import Shows from './Shows'
-import {SwitchCategory} from './Functions';
+import { SwitchCategory } from './Functions';
 
 function App() {
   return (
@@ -43,6 +43,7 @@ const Footer = styled.div`
   font-size: 18px;
   padding: 15px;
 `
+
 const Navbar = styled.div`
 width: 100%;
 display: block;

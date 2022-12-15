@@ -20,8 +20,9 @@ const Show = (props) => {
 			<Title>{show.title}</Title>
 			<Category>{show.category}</Category>
 		</ShowContainer>
-	)
+		)
 }
+
 
 const Title = styled.div`
 `
