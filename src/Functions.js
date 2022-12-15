@@ -1,5 +1,5 @@
 export const SwitchCategory = (prop) => {
-	if (props)
+
 }
 
 export const Detail = (prop) => {
